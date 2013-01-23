@@ -1,0 +1,23 @@
+---
+pageable: true
+per_page: 12
+---
+%h2= "Articles tagged '#{tagname}'"
+
+%ul
+  - page_articles.each_with_index do |article, i|
+    %li
+      = link_to article.title, article
+      %span= article.date.strftime('%b %e')
+.row
+  .six.columns
+    - if prev_page
+      .panel
+        %p
+          = link_to 'Previous page', prev_page
+
+  .six.columns
+    - if paginate
+      - if next_page
+        .panel
+          %p= link_to 'Next page', next_page

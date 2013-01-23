@@ -1,0 +1,27 @@
+---
+title: Welcome to Middleman Foundation
+pageable: true
+per_page: 10
+---
+.row
+  .twelve.columns
+    - page_articles.each_with_index do |article, i|
+      .panel
+        %p
+          %h3
+            = link_to article.title, article
+            %span= article.date.strftime('%b %e')
+          %p= article.summary
+
+.row
+  .six.columns
+    - if prev_page
+      .panel
+        %p
+          = link_to 'Previous page', prev_page
+
+  .six.columns
+    - if paginate
+      - if next_page
+        .panel
+          %p= link_to 'Next page', next_page

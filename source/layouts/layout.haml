@@ -1,0 +1,56 @@
+!!! 5
+/ paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/
+/[if IE 8] <html class="no-js lt-ie9" lang="en">
+:plain
+  <!--[if gt IE 8] -->
+%html{lang: "en"}
+  /<![endif]
+  %head
+    %meta{charset: "utf-8"}/
+    / Set the viewport width to device width for mobile
+    %meta{content: "width=device-width, initial-scale=1.0", name: "viewport"}
+    %title= data.page.title
+    / Included CSS Files
+    = stylesheet_link_tag "app", "theme"
+    = javascript_include_tag "foundation/modernizr.foundation"
+    
+  %body{class: page_classes}
+    .row
+      .twelve.columns
+        %h2
+          %a{href: "/"}= data.site.title
+        %hr
+    .row
+      .eight.columns
+        = yield
+      / Application Javascript, safe to override
+      = javascript_include_tag "app"
+      %aside.four.columns
+        .panel
+          - if paginate
+            %p
+              Page
+              = page_number
+              of
+              = num_pages
+        %dl.tabs
+          %dd.active
+            %a{href: "#recent"} Recent Articles
+          %dd
+            %a{href: "#tags"} Tags
+        %ul.tabs-content
+          %li#recentTab.active
+            %h4 Recent Articles
+            %ul.disc
+              - blog.articles[0...10].each do |article|
+                %li
+                  %a{href: "#{article.url}"}
+                    = article.title
+                  %span= article.date.strftime('%b %e')
+          %li#tagsTab
+            %h4 Tags
+            %ul.disc
+              - blog.tags.each do |tag, articles|
+                %li
+                  %a{href: "#{tag_path tag}"}
+                    = "#{tag} (#{articles.size})"
