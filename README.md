@@ -1,7 +1,11 @@
 # gSchool Blog
 
 
-## Installation
+## Getting Started
+
+* Fork this repository
+* Clone the repository
+* Install all the required dependencies
 
 ```
 $ bundle install
