@@ -9,7 +9,7 @@ a {
   color: #2f84c2;
 }
 a:hover {
-  color: #2a76ad;
+  color: red;
 }
 header {
   padding: 3em 0px 3em 0px;
