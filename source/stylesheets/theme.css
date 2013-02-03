@@ -66,8 +66,8 @@ a.logo:hover {
   color: #ededed;
 }
 .nav-bar {
-  background-color: #141414;
-  border-color: #a2a2a2;
+  background-color: red;
+  border-color: black;
 }
 .nav-bar > li > a {
   color: #ededed;

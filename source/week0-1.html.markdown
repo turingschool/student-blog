@@ -1,5 +1,5 @@
 ---
-title: Week 0 - Programming from scratch
+title: Week 0 (1)
 date: 2012-01-01
 tags: gschool week 0
 ---
