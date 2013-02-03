@@ -15,8 +15,3 @@ Computer programming is terrifying to me, but not as terrifying as it was last w
 
 After the first week I have only started to realize the scope of the program, and am just as anxious as I am excited to start building real applications. I am ready to give it my all, but at the same time am trying to mentally prepare myself for the imminent ass-kicking over the next six months. 
 
-
-
-
-http://serknight.herokuapp.com/
-
