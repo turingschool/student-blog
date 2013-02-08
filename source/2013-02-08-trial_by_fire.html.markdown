@@ -18,3 +18,6 @@ Over the next few days I spent roughly 15 hours on the event_reporter program. I
 Overall, I was happy with the output but realize I have a ton of room to improve. My score reflected my effort, but I still chose to work with Jeff’s group for the wrap-up as I am still very fuzzy on many of the elements within my own program. 
 
 I realize projects from here on will only become more difficult. When I look at the macro view of the first two weeks, I feel like we were all thrown into the lions den, regardless of out skill or experience, and despite my frustration & near mental-breakdowns, I learned a lot this week from this trial-by-fire project.
+
+
+Here is a link to the git repository if you want to see the project code :      https://github.com/SerKnight/event_reporter.git
