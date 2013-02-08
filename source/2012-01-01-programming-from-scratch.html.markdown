@@ -1,6 +1,9 @@
-title: Programming from scratch (0) date: 2012-01-01
-
+---
+title: Programming from scratch 
+date: 2012-01-01
 tags: gschool week 0
+---
+
 Programming for Dummies
 
 READMORE
