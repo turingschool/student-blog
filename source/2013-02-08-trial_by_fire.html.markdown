@@ -9,7 +9,7 @@ The event reporter
 READMORE
 
 
-The first project we completed in G-School was definitely was not easy for me. It spanned the gap from the previous warm ups by having no tutorial to walk you through. While this created an environment conducive for asking many more questions, it also was difficult for me to start the project as I really had no reference of where to begin. 
+The first project we completed in G-School was definitely not easy for me. It spanned the gap from the previous warm ups by having no tutorial to walk you through. While this created an environment conducive for asking many more questions, it also was difficult for me to start the project as I really had no reference of where to even begin. 
 
 As the hours ticked away, a few of the more novice, frustrated students banded together. The hope was that we would magically comprehend the project while talking through it, and would get more then a few lines down. With the help of a few incredibly patient and talented peers, we worked through the process of starting our command prompts and a few preliminary methods.
 
