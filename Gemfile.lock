@@ -133,6 +133,7 @@ DEPENDENCIES
   middleman
   middleman-blog (~> 3.1.1)
   middleman-syntax
+  pygments.rb
   rack-contrib
   redcarpet
   zurb-foundation

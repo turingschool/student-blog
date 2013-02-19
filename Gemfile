@@ -9,3 +9,4 @@ gem "builder"
 gem "rack-contrib"
 
 gem "redcarpet"
+gem "pygments.rb"
