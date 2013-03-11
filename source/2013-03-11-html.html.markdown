@@ -20,7 +20,7 @@ READMORE
     However, it seems that understanding the basic foundations of HTML manipulation is a solid way to understand more complext mechanisms that use CSS, Bootstrap, or Javascript.<hr />
     </body>
 
-  <p><strong>The most confusing aspect if found</strong><p>
+  <p><strong>The most confusing aspect I found</strong><p>
     was the formation of ordered and unordered lists.
     While this wasnt not neccesarily difficult, It did trip me up with the repetition and small typo errors. I tried practicing each technique and getting it succesful before moving onto the next tag or technique.
     <ol>
