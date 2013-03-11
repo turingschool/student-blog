@@ -1,0 +1,45 @@
+---
+title: HTML
+date: 2013-03-11 15:28 -06:00
+tags:
+---
+
+Intro to HTML
+
+
+READMORE
+
+<html>
+  <head>
+    <title>
+      HTML basics
+    </title>
+  Using basic tags to alter your text seems like the most basic altering you can do to your webpage.<hr />
+  </head>
+  <body>
+    However, it seems that understanding the basic foundations of HTML manipulation is a solid way to understand more complext mechanisms that use CSS, Bootstrap, or Javascript.<hr />
+    </body>
+
+  <p><strong>The most confusing aspect if found</strong><p>
+    was the formation of ordered and unordered lists.
+    While this wasnt not neccesarily difficult, It did trip me up with the repetition and small typo errors. I tried practicing each technique and getting it succesful before moving onto the next tag or technique.
+    <ol>
+      <li>First I setup the infrastructure of the tags
+          <ul>
+            <li> Which sometimes looked messy</li>
+          </ul>
+      <li>Then I would set up closing tags before filling in info.</Li>
+      <li>and finally filling in the text so it made sense</Li>
+    </ol><hr />
+
+<p> My favorite parts of the first section included the ability to link to pictures, emails, or any external URL using the "< a href= ... tag". This allows the designer to link to emails and urls such as <br />
+  <a href="http://www.nomadicknight.com" target="_blank">My Travel website</a></p>
+
+  <p>In addition it makes the designer able to link pictures and determine their size, across any type of discplay the user might be using. for example here is a random picture I had on my computer.
+    <img src="/images/my_images/Girl Rising.jpg" title="random picture" /> </p>
+
+  <hr /> 
+
+  <p>While I got tons to learn on HTML5 & CSS, it is nice to practice something that has a direct output. You can see how right <em>(or wrong)</em> you are in <strong>realtime.</strong></p>
+
+</html>
