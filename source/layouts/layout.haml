@@ -11,23 +11,25 @@
     %meta{content: "width=device-width, initial-scale=1.0", name: "viewport"}
     %title= data.page.title
     / Included CSS Files
-    = stylesheet_link_tag "app", "theme", "overrides"
+    <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css" rel="stylesheet">
+
+    / bootsrap cdn ^
+    = stylesheet_link_tag "overrides.css", "bootstrap.min.css"
     = javascript_include_tag "foundation/modernizr.foundation"
     %link{rel: "alternate", type: "application/rss+xml", title: "RSS Feed", href: "feed.xml"}
 
     
   %body{class: page_classes}
     .row
-      .twelve.columns
+      .span12
         %h2
           %a{href: "/"}= data.site.title
         %hr
-    .row
-      .eight.columns
+      .span8.offset1
         = yield
       / Application Javascript, safe to override
       = javascript_include_tag "app"
-      %aside.four.columns
+      .well.span4
         .panel
           - if paginate
             %p
@@ -49,6 +51,7 @@
                   %a{href: "#{article.url}"}
                     = article.title
                   %span= article.date.strftime('%b %e')
+          </br ></br ><p><img src="http://m.c.lnkd.licdn.com/media/p/3/000/100/2ed/0ef6111.jpg" height="450" width="450"> </p>
           %li#tagsTab
             %h4 Tags
             %ul.disc

@@ -15,8 +15,7 @@ READMORE
   background-color: #C8C8C8;
   background-color: hsl(0,0%,78%);}
 p {
-  background-color: #FFFFFF;
-  background-color: hsla(0,100%,100%,0.5);}
+
 
   body {
       font-family: arial;

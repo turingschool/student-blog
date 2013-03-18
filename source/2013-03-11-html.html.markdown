@@ -35,8 +35,9 @@ READMORE
 <p> My favorite parts of the first section included the ability to link to pictures, emails, or any external URL using the "< a href= ... tag". This allows the designer to link to emails and urls such as <br />
   <a href="http://www.nomadicknight.com" target="_blank">My Travel website</a></p>
 
-  <p>In addition it makes the designer able to link pictures and determine their size, across any type of discplay the user might be using. for example here is a random picture I had on my computer.
-    <img src="/images/my_images/Girl Rising.jpg" title="random picture" /> </p>
+  <p>In addition it makes the designer able to link pictures and determine their size, across any type of discplay the user might be using. for example here is a random picture I had on my computer.<br />
+    <img src="/images/my_images/Girl Rising.jpg" title="random picture" height="400", width="400", align="right"/> </p>
+    <br /><br />
 
   <hr /> 
 
