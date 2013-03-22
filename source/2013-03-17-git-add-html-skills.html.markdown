@@ -19,9 +19,9 @@ p {
 
   body {
       font-family: arial;
-      background-color: rgb(185,179,175);}
+      background-color: black(185,179,175);}
     h1 {
-      color: rgb(255,255,255);}
+      color: black(255,255,255);}
   ul {
     list-style-image:("images/star.png");}
   li {
@@ -29,16 +29,15 @@ p {
       </style>
   </head>
   <body>
-    <h1> Introducing my HTML / CSS blog post </h1>
+    <h3> Introducing my HTML / CSS blog post </h3>
   </body>
 
 
-<p>Learning all these new concepts and skills has taken a toll on my brain. The best way to hammer in these skills, is to practice them. As many have told me ~ </p>
+Learning all these new concepts and skills has taken a toll on my brain. The best way to hammer in these skills, is to practice them. As many have told me ~ 
 
-<p id="pullquote"> <h2> If it were easy, anyone could do it.</h2></p>
+<h2> If it were easy, anyone could do it.</h2>
 
-
-<p><strong>All this design reading has got me going back to my limited experience with WordPress. I remember trying to build my travel blog site before g-school and doing just the built in basics. Learning to link my own photos and videos in a style that I see fit is definitely a strong skill to have. Here is a link to a video that sort of sums up what I like to do.</strong></p>
+<h8><strong>All this design reading has got me going back to my limited experience with WordPress. I remember trying to build my travel blog site before g-school and doing just the built in basics. Learning to link my own photos and videos in a style that I see fit is definitely a strong skill to have. Here is a link to a video that sort of sums up what I like to do.</strong></h8>
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/-4i7cli7WNA?list=UUalUnzdQKDVpFWyFOXFsK6A" frameborder="0" allowfullscreen></iframe>
 
@@ -48,8 +47,6 @@ p {
   <li>Just because you can change it, should you?</li>
   <li>What type of minimalist design looks best</li>
   </ul>
-
-
 
 
 </html>
