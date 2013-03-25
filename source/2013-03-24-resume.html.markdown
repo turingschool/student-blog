@@ -12,12 +12,17 @@ READMORE
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <body>
       <div id="page-wrap">
-          <img src="/images/my_images/timor.jpg" title="Travel Videography" height="200", width="200", align="middle"/
-          <div id="contact-info" class="vcard">
+          <img src="/images/my_images/timor.jpg" title="Travel Videography" height="200", width="200", align="left"/
+      <div id="page-wrap">
+          <img src="/images/my_images/skydive.jpg" title="Travel Videography" height="150", width="150", align="middle"/
+      <div id="page-wrap">
+          <img src="/images/my_images/snow.jpg" title="Travel Videography" height="265", width="265", align="right"/
+      <div id="page-wrap">
               <h1 class="fn">About me</h1>
                 <p>
-                Cell: <span class="tel">555-666-7777</span><br />
-                Email: <a class="email" href="mailto:ChrisKnight.mail@gmail.com">ChrisKnight.mail@gmail.com</a>
+                Cell: <span class="tel">303-618-8520</span><br />
+                Email: <a class="work" href="mailto:ChrisKnight.mail@gmail.com">ChrisKnight.mail@gmail.com</a></br>
+                <a class="personal" href="mailto:rehpotsirhc46@gmail.com">Rehpotsirhc46@gmail.com</a>
             </p>
           </div>
           <div id="objective">
@@ -43,7 +48,7 @@ READMORE
                   <h4>Computer skills</h4>
                   <ul><t><p>Ruby & Ruby on Rails, HTML & CSS, Wordpress, Photoshop, Final Cut Pro</p></ul
                   <p><h4>Personal Travel Video Blog</h4></p>
-                  <ul><a href="http://www.NomadicKnight.com">Nomadic Knight</a></ul>
+                  <ul><a target="_blank" href="http://www.NomadicKnight.com">Nomadic Knight</a></ul>
               </dd>
               <dd class="clear"></dd>              
               <dt>Experience</dt>
@@ -68,14 +73,16 @@ READMORE
                       <li>Edited commercial projects.</li>
                   </ul> 
               </dd>              
-              <dd class="clear"></dd>              
+              <dd class="clear"></dd>  
+          <img src="/images/my_images/bamboo.jpg" title="Travel Videography" height="200", width="200", align="right"/
+          <div id="contact-info" class="vcard">            
               <dt>Hobbies</dt>
               <dd>Scuba Diving, Backcountry Snowboarding, Mountain Biking, Skydiving, and pretty much anything that goes fast or involves signing a waiver.</dd>              
               <dd class="clear"></dd>              
               <dt>References</dt>
-               <a class="linkedin" href="http://www.linkedin.com/profile/view?id=73950402&goback=%2Enppvan_%2Fjvanlee&trk=tab_pro">Christopher Knight Linkedin</a>
+               <a target="_blank" class="linkedin" href="http://www.linkedin.com/profile/view?id=73950402&goback=%2Enppvan_%2Fjvanlee&trk=tab_pro">Christopher Knight Linkedin</a>
               <dd class="clear"></dd>
-               <a class="GitHub" href="https://github.com/SerKnight">Christopher Knight GitHub</a>
+               <a target="_blank" class="GitHub" href="https://github.com/SerKnight">Christopher Knight GitHub</a>
               <dd class="clear"></dd>
           </dl>          
           <div class="clear"></div>      
