@@ -6,6 +6,7 @@ tags: resume
 
 Will travel for work!
 
+
 READMORE 
 
 
@@ -27,40 +28,38 @@ READMORE
           </div>
           <div id="objective">
               <p>
-                 I am an adrenaline-junkie / anthropologist / writer working towards a career in the field of</br> 
-                 web-development, primarily focusing on Ruby-On-Rails. I am passionate about travel, </br>and would love to incorporate all these elements into my work. 
+                 I live in Denver and am working towards a career in the field of</br> web-development, primarily focusing learning Ruby on Rails. I am currently a participant at gSchool, a 6-month intensive web development course located at <a targe="blank"  href="http://galvanize.it/"> Galvanize.</a>
               </p>
           </div>
           <div class="clear"></div>
           <dl>
               <dd class="clear"></dd>
-              <dt>Education</dt>
+              <dt> <u>Education </u></dt>
               <dd>
                   <h4>Western Washington University - Bellingham, Wash.</h4>
-                  <p><strong>Major:</strong> Cultural Anthropology focused in documentary film <br />
+                  <p><strong>Major:</strong> Bachelors degree in Cultural Anthropology / documentary film <br />
                      <strong>Minor:</strong> International Relations </p>
               </dd>
               <dd class="clear"></dd>              
-              <dt>Skills</dt>
-              <dd>
-                  <h4>Public Speaking</h4>
-                  <ul><p>Academic presentations, Lightning talks, Video presentations</p></ul>
-                  <h4>Computer skills</h4>
-                  <ul><t><p>Ruby & Ruby on Rails, HTML & CSS, Wordpress, Photoshop, Final Cut Pro</p></ul
+              <dt><u>Skills </u></dt>
+              <dd>  
+                 <h4>Computer skills</h4>
+                  <ul><t><p>Learning: Ruby, Rails, HTML CSS, haml/erb.
+                  Competent with Wordpress, Photoshop, Final Cut Pro</p></ul
                   <p><h4>Personal Travel Video Blog</h4></p>
                   <ul><a target="_blank" href="http://www.NomadicKnight.com">Nomadic Knight</a></ul>
               </dd>
               <dd class="clear"></dd>              
-              <dt>Experience</dt>
+              <dt><u>Experience</u></dt>
               <dd>
                   <h2>Jungle Run Productions – </br>Bali, Indonesia </h2>
                   <ul>
-                      <li>Filmed the TourDeTimor; a 6-stage 500km mountain bike race from back of motorbike. </li>
-                      <li>Organized media crew, met upload deadlines, for broadcast on the Outdoor Channel </li>
+                      <li>Filmed the TourDeTimor; a 6-stage 500km mountain bike race in Timor-Leste </li>
+                      <li>Organized with media, met upload deadlines, and kept a video blog.</li>
                   </ul>
                   <h2>Dockhand At Northwest Explorations - Bellingham, Wa.</h2>
                   <ul>
-                      <li>Main dockhand for the leading PNW luxury yacht charter company</li>
+                      <li>Main dockhand for the leading PNW GrandBanks yacht charter company</li>
                       <li>Maintained fleet of vessels, and excelled to meet any customer's needs. </li>
                   </ul> 
                   <h2>Snowboard Instructor- </br> Mt.Baker, Wa.</h2>
@@ -77,7 +76,7 @@ READMORE
           <img src="/images/my_images/bamboo.jpg" title="Travel Videography" height="200", width="200", align="right"/
           <div id="contact-info" class="vcard">            
               <dt>Hobbies</dt>
-              <dd>Scuba Diving, Backcountry Snowboarding, Mountain Biking, Skydiving, and pretty much anything that goes fast or involves signing a waiver.</dd>              
+              <dd>Scuba, Snowboarding, Mountain Biking, video-editing, and travel.</dd>              
               <dd class="clear"></dd>              
               <dt>References</dt>
                <a target="_blank" class="linkedin" href="http://www.linkedin.com/profile/view?id=73950402&goback=%2Enppvan_%2Fjvanlee&trk=tab_pro">Christopher Knight Linkedin</a>
