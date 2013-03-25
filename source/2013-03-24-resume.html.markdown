@@ -83,6 +83,7 @@ READMORE
               <dd class="clear"></dd>
                <a target="_blank" class="GitHub" href="https://github.com/SerKnight">Christopher Knight GitHub</a>
               <dd class="clear"></dd>
+              <a target="_blank" class="linkedin" href="http://www.youtube.com/user/EditApartMentality?feature=mhee">Christopher Knight YouTube</a>
           </dl>          
           <div class="clear"></div>      
       </div>
