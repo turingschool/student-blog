@@ -28,7 +28,7 @@ READMORE
           </div>
           <div id="objective">
               <p>
-                 I live in Denver and am working towards a career in the field of</br> web-development, primarily focusing learning Ruby on Rails. I am currently a participant at gSchool, a 6-month intensive web development course located at <a targe="blank"  href="http://galvanize.it/"> Galvanize.</a>
+                 I live in Denver and am working towards a career in the field of</br> web-development, primarily focused on learning Ruby on Rails. I am currently a participant at gSchool, a 6-month intensive web development course located at <a targe="blank"  href="http://galvanize.it/"> Galvanize.</a>
               </p>
           </div>
           <div class="clear"></div>
