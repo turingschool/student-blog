@@ -1,0 +1,84 @@
+---
+title: Christopher Knight - Resumé
+date: 2013-03-24 
+tags: resume
+---
+
+Will travel for work!
+
+READMORE 
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <body>
+      <div id="page-wrap">
+          <img src="/images/my_images/timor.jpg" title="Travel Videography" height="200", width="200", align="middle"/
+          <div id="contact-info" class="vcard">
+              <h1 class="fn">About me</h1>
+                <p>
+                Cell: <span class="tel">555-666-7777</span><br />
+                Email: <a class="email" href="mailto:ChrisKnight.mail@gmail.com">ChrisKnight.mail@gmail.com</a>
+            </p>
+          </div>
+          <div id="objective">
+              <p>
+                 I am an adrenaline-junkie / anthropologist / writer working towards a career in the field of</br> 
+                 web-development, primarily focusing on Ruby-On-Rails. I am passionate about travel, </br>and would love to incorporate all these elements into my work. 
+              </p>
+          </div>
+          <div class="clear"></div>
+          <dl>
+              <dd class="clear"></dd>
+              <dt>Education</dt>
+              <dd>
+                  <h4>Western Washington University - Bellingham, Wash.</h4>
+                  <p><strong>Major:</strong> Cultural Anthropology focused in documentary film <br />
+                     <strong>Minor:</strong> International Relations </p>
+              </dd>
+              <dd class="clear"></dd>              
+              <dt>Skills</dt>
+              <dd>
+                  <h4>Public Speaking</h4>
+                  <ul><p>Academic presentations, Lightning talks, Video presentations</p></ul>
+                  <h4>Computer skills</h4>
+                  <ul><t><p>Ruby & Ruby on Rails, HTML & CSS, Wordpress, Photoshop, Final Cut Pro</p></ul
+                  <p><h4>Personal Travel Video Blog</h4></p>
+                  <ul><a href="http://www.NomadicKnight.com">Nomadic Knight</a></ul>
+              </dd>
+              <dd class="clear"></dd>              
+              <dt>Experience</dt>
+              <dd>
+                  <h2>Jungle Run Productions – </br>Bali, Indonesia </h2>
+                  <ul>
+                      <li>Filmed the TourDeTimor; a 6-stage 500km mountain bike race from back of motorbike. </li>
+                      <li>Organized media crew, met upload deadlines, for broadcast on the Outdoor Channel </li>
+                  </ul>
+                  <h2>Dockhand At Northwest Explorations - Bellingham, Wa.</h2>
+                  <ul>
+                      <li>Main dockhand for the leading PNW luxury yacht charter company</li>
+                      <li>Maintained fleet of vessels, and excelled to meet any customer's needs. </li>
+                  </ul> 
+                  <h2>Snowboard Instructor- </br> Mt.Baker, Wa.</h2>
+                  <ul>
+                      <li>Instructed walk-ins, private lessons. Anywhere from 5-55 years old.</li>
+                  </ul> 
+                  <h2>Revolutionary Productions Video Editor -</br>  Bellingham, Wa.</h2>
+                  <ul>
+                      <li>Helped work on short films for local video contests and web series.</li>
+                      <li>Edited commercial projects.</li>
+                  </ul> 
+              </dd>              
+              <dd class="clear"></dd>              
+              <dt>Hobbies</dt>
+              <dd>Scuba Diving, Backcountry Snowboarding, Mountain Biking, Skydiving, and pretty much anything that goes fast or involves signing a waiver.</dd>              
+              <dd class="clear"></dd>              
+              <dt>References</dt>
+               <a class="linkedin" href="http://www.linkedin.com/profile/view?id=73950402&goback=%2Enppvan_%2Fjvanlee&trk=tab_pro">Christopher Knight Linkedin</a>
+              <dd class="clear"></dd>
+               <a class="GitHub" href="https://github.com/SerKnight">Christopher Knight GitHub</a>
+              <dd class="clear"></dd>
+          </dl>          
+          <div class="clear"></div>      
+      </div>
+  </body>
+</html>
