@@ -79,11 +79,11 @@ READMORE
               <dd>Scuba, Snowboarding, Mountain Biking, video-editing, and travel.</dd>              
               <dd class="clear"></dd>              
               <dt>References</dt>
-               <a target="_blank" class="linkedin" href="http://www.linkedin.com/profile/view?id=73950402&goback=%2Enppvan_%2Fjvanlee&trk=tab_pro">Christopher Knight Linkedin</a>
+               <a target="_blank" class="linkedin" href="http://www.linkedin.com/profile/view?id=73950402&goback=%2Enppvan_%2Fjvanlee&trk=tab_pro">Linkedin</a>
               <dd class="clear"></dd>
-               <a target="_blank" class="GitHub" href="https://github.com/SerKnight">Christopher Knight GitHub</a>
+               <a target="_blank" class="GitHub" href="https://github.com/SerKnight">GitHub</a>
               <dd class="clear"></dd>
-              <a target="_blank" class="linkedin" href="http://www.youtube.com/user/EditApartMentality?feature=mhee">Christopher Knight YouTube</a>
+              <a target="_blank" class="linkedin" href="http://www.youtube.com/user/EditApartMentality?feature=mhee">YouTube</a>
           </dl>          
           <div class="clear"></div>      
       </div>
