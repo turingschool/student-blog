@@ -1,4 +1,5 @@
 - wrap_layout :layout do
   %h2= current_page.data.title
   %article
-    = yield
+    = find_and_preserve do
+      = yield
