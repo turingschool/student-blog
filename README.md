@@ -1,61 +1,59 @@
 # gSchool Blog
 
-```
-$ git clone git@github.com:YOURNAME/gschool-blog.git
-```
+1. Fork the repository to your own account and then clone it to your machine:
 
-* Download all the project dependencies
+	```
+	$ git clone git@github.com:YOURNAME/gschool-blog.git
+	```
 
-```
-$ cd gschool-blog
-$ bundle install
-```
+1. Use bundler to install all of the dependencies
 
-* Run the Middleman Blog
+	```
+	$ cd gschool-blog
+	$ bundle install
+	```
 
-```
-$ middleman
-```
+1. Run the Middleman Blog and visit in your browser to make sure it works
 
-* Visit the [blog](http://localhost:4567) in your browser
+	```
+	$ middleman
+	$ open http://localhost:4567
+	```
 
-* Remove the existing articles
+1. Remove the existing articles
 
-```
-$ git rm source/2012-01-01-example-article.html.markdown
-$ git rm source/2013-01-23-introduction.html.markdown
-$ git commit -m "Removed old articles"
-```
+	```
+	$ git rm source/2012-01-01-example-article.html.markdown
+	$ git rm source/2013-01-23-introduction.html.markdown
+	$ git commit -m "Removed old articles"
+	```
 
-* Create your first article
+1. Create your first article
 
-```
-$  middleman article "gSchool - Week 0"
-```
+	```
+	$ middleman article "gSchool - Week 0"
+	```
 
-* Write an article with your recap/reflections of the first week.
+1. Write an article with your recap/reflections of the first week.
 
-* Save the article
+1. Save the article
 
-```
-$ git add source
-$ git commit -m "Wrote First Article"
-```
+	```
+	$ git add source
+	$ git commit -m "Wrote First Article"
+	```
 
-* Create a Heroku Account
-* Add your SSH key to your [Heroku account](https://dashboard.heroku.com/account)
+1. Create the Heroku application and deploy your blog.
 
-* Install the heroku tools
-* Create a heroku server
+	```
+	$ heroku create
+	$ git push heroku master
+	```
 
-```
-$ gem install heroku
-$ heroku create --stack cedar
-$ git push heroku master
-```
+1. Push your changes back to Github for safe keeping
 
-* Push your changes back to Github
+	```
+	$ git push origin master
+	```
 
-```
-$ git push origin master
-```
+1. (Optional) Rename the blog to something other than the default Heroku name. You can do this via the Heroku console after you log in.
