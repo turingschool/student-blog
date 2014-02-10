@@ -20,6 +20,10 @@
 	$ open http://localhost:4567
 	```
 
+1. Check out the existing articles for an example of how to write a blog post. Make note that you can
+add a tag to the article using the 'tag' setting at the top of an article. See http://middlemanapp.com/basics/blogging/#toc_1
+for more information about adding dates and tags to each article.
+
 1. Remove the existing articles
 
 	```
@@ -28,7 +32,7 @@
 	$ git commit -m "Removed old articles"
 	```
 
-1. Create your first article
+1. Create your first article.
 
 	```
 	$ middleman article "gSchool - Week 0"
@@ -57,3 +61,6 @@
 	```
 
 1. (Optional) Rename the blog to something other than the default Heroku name. You can do this via the Heroku console after you log in.
+
+Note: The styling of code highlighting is a bit broken when the code shows up on the homepage. If you would like to embed code in your
+blog posts, let an instructor know.
