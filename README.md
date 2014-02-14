@@ -17,6 +17,11 @@
 
 	```
 	$ middleman
+	```
+
+To open your browser from the terminal, open a new tab and enter:
+
+	```
 	$ open http://localhost:4567
 	```
 
