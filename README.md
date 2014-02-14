@@ -13,13 +13,13 @@
 	$ bundle install
 	```
 
-1. Run the Middleman Blog and visit in your browser to make sure it works
+1. Run the Middleman Blog
 
 	```
 	$ middleman
 	```
 
-To open your browser from the terminal, open a new tab and enter:
+1. Open the blog in your browser to make sure it works.  You can do this from a new terminal tab with:
 
 	```
 	$ open http://localhost:4567
