@@ -13,13 +13,13 @@
 	$ bundle install
 	```
 
-1. Run the Middleman Blog and visit in your browser to make sure it works
+1. Run the Middleman Blog
 
 	```
 	$ middleman
 	```
 
-To open your browser from the terminal, open a new tab and enter:
+1. Open the blog in your browser to make sure it works.  You can do this from a new terminal tab with:
 
 	```
 	$ open http://localhost:4567
@@ -66,6 +66,3 @@ for more information about adding dates and tags to each article.
 	```
 
 1. (Optional) Rename the blog to something other than the default Heroku name. You can do this via the Heroku console after you log in.
-
-Note: The styling of code highlighting is a bit broken when the code shows up on the homepage. If you would like to embed code in your
-blog posts, let an instructor know.
