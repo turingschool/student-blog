@@ -26,8 +26,9 @@
       / Application Javascript, safe to override
       = javascript_include_tag "app"
       %aside.four.columns
-        .panel
-          - if paginate
+
+        - if paginate
+          .panel
             %p
               Page
               = page_number

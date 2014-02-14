@@ -79,10 +79,7 @@ set :images_dir, 'images'
 set :markdown_engine, :redcarpet
 set :markdown, :fenced_code_blocks => true, :smartypants => true
 
-activate :syntax,
-         :linenos => 'inline',
-         :anchorlinenos => true,
-         :linenostart => 2
+activate :syntax
 
 # Build-specific configuration
 configure :build do
