@@ -1,15 +1,15 @@
-# gSchool Blog
+# Turing Student Blog
 
 1. Fork the repository to your own account and then clone it to your machine:
 
 	```
-	$ git clone git@github.com:YOURNAME/gschool-blog.git
+	$ git clone git@github.com:YOURNAME/turing-blog.git
 	```
 
 1. Use bundler to install all of the dependencies
 
 	```
-	$ cd gschool-blog
+	$ cd turing-blog
 	$ bundle install
 	```
 
@@ -37,13 +37,13 @@ for more information about adding dates and tags to each article.
 	$ git commit -m "Removed old articles"
 	```
 
-1. Create your first article.
+1. Create your first article with some title:
 
 	```
-	$ middleman article "gSchool - Week 0"
+	$ middleman article "First Article"
 	```
 
-1. Write an article with your recap/reflections of the first week.
+1. Add your content to the generated file.
 
 1. Save the article
 
